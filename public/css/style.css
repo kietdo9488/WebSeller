@@ -1,0 +1,150 @@
+body
+{
+    background: url(../img/bg.jpg);
+}
+.header
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.lienhe
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.calllink
+{
+    padding: 10px 20px;
+    border: solid 3px black;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
+.textlh
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.fruit
+{
+    border: solid black 10px;
+    background: rgb(168, 111, 111);
+}
+.bouty
+{
+    border: solid black 10px;
+    margin-bottom: 100px;
+    background: rgb(168, 111, 111);
+
+}
+.raid
+{
+    border: solid black 10px;
+    margin-bottom: 100px;
+    background: rgb(168, 111, 111);
+
+}
+.stock
+{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.mid
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.text-demo
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+.bot
+{
+    margin-top: 100px;
+    background: blue;
+    padding-top: 25px;
+    padding-bottom: 25px;  
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+.more-info
+{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+.have-link
+{
+    color: white;
+    text-decoration: none;
+    background: blue;
+}
+.have-link:hover
+{
+    color: red;
+}
+.on-stock
+{
+    font-weight: bold;
+    color: black;
+}
+.on-stock-vip
+{
+    font-weight: bold;
+    color: red;
+}
+.item
+{
+    padding: 20px 100px;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 10px 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+   
+}
+.border
+{
+    border: solid black 10px;
+}
+.link-text
+{
+    color: black;
+    text-decoration: none;
+}
+.link-text:hover
+{
+    color: black;
+    text-decoration: none;
+}
+.text-buying 
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.border2
+{
+    border: solid black 5px;
+    border-radius: 20px;
+}
+.item
+{
+    background: white;
+}
